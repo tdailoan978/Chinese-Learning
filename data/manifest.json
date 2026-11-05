@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 3,
+  "contentHash": "825a7be831e925378b4f6da10409c82b028ce32cd3c96dea953cb95fa7bcae93",
+  "words": "words.json",
+  "sentences": "sentences.json",
+  "decks": [
+    {
+      "deckId": "core-1",
+      "name": "Core 1–1000",
+      "type": "frequency",
+      "version": 1,
+      "url": "decks/core-1.json",
+      "sha256": "a57dd4035aecc2340dd7e8386101d678a4e3b84d00171733f3134dd64aca2faf",
+      "wordCount": 1000
+    }
+  ]
+}

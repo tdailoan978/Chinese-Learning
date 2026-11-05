@@ -1,0 +1,11 @@
+Application code (js/, css/, index.html, sw.js): MIT.
+
+Word data (data/): Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+It is adapted from CC-CEDICT and was modified; see CREDITS.md for each source.
+
+data/sentences.json contains sentences from Tatoeba under CC BY 2.0 FR.
+data/decks/ contains a word order derived from SUBTLEX-CH (Cai & Brysbaert, 2010),
+published with the permission of Marc Brysbaert, given by email.
+
+Nothing here is legal advice.
