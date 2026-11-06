@@ -11,6 +11,7 @@ published with the permission of Marc Brysbaert, given by email.
 data/components.json is adapted from Make Me a Hanzi dictionary.txt, licensed
 under the GNU LGPL, version 3 or later; see data/LGPL-3.0.txt.
 
-data/grammar.json and the theme lists in data/decks/ were written for this app.
+data/grammar.json, data/speaking.json and the theme lists in data/decks/ were written
+for this app.
 
 Nothing here is legal advice.

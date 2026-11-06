@@ -37,6 +37,11 @@ licence and the Unicode notice are in `data/LGPL-3.0.txt`. Its stroke graphics a
 
 Written for this app, and not copied from any other source. Pattern names are ordinary grammar terms.
 
+## Speaking phrases and topics
+
+The starter phrases, topics and sentence starters were written for this app. Their pinyin was
+generated here, and word links use the word list above.
+
 ## HSK levels
 
 Level numbers per word from https://github.com/drkameleon/complete-hsk-vocabulary (MIT label).

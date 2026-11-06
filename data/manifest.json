@@ -1,37 +1,38 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 7,
-  "contentHash": "add9ea02d59328860b2e2ec8230baf3a5552afaf6ec1e83f16d47a71e6633cf5",
+  "dataVersion": 12,
+  "contentHash": "0c9db61cd697396844a40010b88e38ae7aa320c9d1721b1ba3d1ab2c2d43cef3",
   "words": "words.json",
   "sentences": "sentences.json",
   "grammar": "grammar.json",
   "components": "components.json",
+  "speaking": "speaking.json",
   "decks": [
     {
       "deckId": "core-1",
       "name": "Core 1–1000",
       "type": "frequency",
-      "version": 1,
+      "version": 2,
       "url": "decks/core-1.json",
-      "sha256": "a57dd4035aecc2340dd7e8386101d678a4e3b84d00171733f3134dd64aca2faf",
+      "sha256": "92d071843ee95e75eb539938b505872656221dcdfb565328e30a218c7d75c170",
       "wordCount": 1000
     },
     {
       "deckId": "core-2",
       "name": "Core 1001–2000",
       "type": "frequency",
-      "version": 1,
+      "version": 2,
       "url": "decks/core-2.json",
-      "sha256": "796116623c74c00e435172803eb12cb19b31f4d9093aec19262ec4c5356d59c6",
+      "sha256": "2cef381aba1111ab5fe1747d77292e84ec9f07f7bbee5b099e7141c6493671f1",
       "wordCount": 1000
     },
     {
       "deckId": "core-3",
       "name": "Core 2001–3000",
       "type": "frequency",
-      "version": 1,
+      "version": 2,
       "url": "decks/core-3.json",
-      "sha256": "72bc18c052abe14eb0553e43b199ad9b56468d85524f37148fc1736c2c6f7415",
+      "sha256": "fb81e73de1b13176d5615d9d63f8c3125fa1aebe2a13391c400387f5c84333dc",
       "wordCount": 1000
     },
     {
