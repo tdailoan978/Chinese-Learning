@@ -27,6 +27,16 @@ https://tatoeba.org, CC BY 2.0 FR. Each sentence in `data/sentences.json` keeps 
 sentence numbers and contributor names in its `attribution` field. Pinyin was added here
 and is not from Tatoeba.
 
+## Make Me a Hanzi (character breakdowns)
+
+https://github.com/skishore/makemeahanzi. `data/components.json` is adapted from its `dictionary.txt`,
+which is derived from Unihan and CJKlib and licensed under the GNU LGPL, version 3 or later. The
+licence and the Unicode notice are in `data/LGPL-3.0.txt`. Its stroke graphics are not used.
+
+## Grammar cards
+
+Written for this app, and not copied from any other source. Pattern names are ordinary grammar terms.
+
 ## HSK levels
 
 Level numbers per word from https://github.com/drkameleon/complete-hsk-vocabulary (MIT label).

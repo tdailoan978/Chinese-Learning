@@ -8,4 +8,9 @@ data/sentences.json contains sentences from Tatoeba under CC BY 2.0 FR.
 data/decks/ contains a word order derived from SUBTLEX-CH (Cai & Brysbaert, 2010),
 published with the permission of Marc Brysbaert, given by email.
 
+data/components.json is adapted from Make Me a Hanzi dictionary.txt, licensed
+under the GNU LGPL, version 3 or later; see data/LGPL-3.0.txt.
+
+data/grammar.json and the theme lists in data/decks/ were written for this app.
+
 Nothing here is legal advice.

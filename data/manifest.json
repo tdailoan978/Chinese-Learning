@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 3,
-  "contentHash": "825a7be831e925378b4f6da10409c82b028ce32cd3c96dea953cb95fa7bcae93",
+  "dataVersion": 7,
+  "contentHash": "add9ea02d59328860b2e2ec8230baf3a5552afaf6ec1e83f16d47a71e6633cf5",
   "words": "words.json",
   "sentences": "sentences.json",
+  "grammar": "grammar.json",
+  "components": "components.json",
   "decks": [
     {
       "deckId": "core-1",
@@ -13,6 +15,64 @@
       "url": "decks/core-1.json",
       "sha256": "a57dd4035aecc2340dd7e8386101d678a4e3b84d00171733f3134dd64aca2faf",
       "wordCount": 1000
+    },
+    {
+      "deckId": "core-2",
+      "name": "Core 1001–2000",
+      "type": "frequency",
+      "version": 1,
+      "url": "decks/core-2.json",
+      "sha256": "796116623c74c00e435172803eb12cb19b31f4d9093aec19262ec4c5356d59c6",
+      "wordCount": 1000
+    },
+    {
+      "deckId": "core-3",
+      "name": "Core 2001–3000",
+      "type": "frequency",
+      "version": 1,
+      "url": "decks/core-3.json",
+      "sha256": "72bc18c052abe14eb0553e43b199ad9b56468d85524f37148fc1736c2c6f7415",
+      "wordCount": 1000
+    },
+    {
+      "deckId": "theme-food",
+      "name": "Food and drink",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-food.json",
+      "sha256": "da66ec0e7d12d5d287e26ae26fb590a109c827e524fc421fd49cf3b3c9e3950f",
+      "wordCount": 62,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-travel",
+      "name": "Travel and transport",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-travel.json",
+      "sha256": "fcbcb90dc659e2330821451ccb4f3986c389702926601c78332225f9611611fc",
+      "wordCount": 60,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-family",
+      "name": "Family and people",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-family.json",
+      "sha256": "27ef9707841e1971e3835edf667918b2fad23755b9c4df33e3507a2383e8f103",
+      "wordCount": 59,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-health",
+      "name": "Health and body",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-health.json",
+      "sha256": "be49720054465c7008ec80d8cd8c567afbb599c2cdcd2fe27983240601c90396",
+      "wordCount": 52,
+      "reviewed": false
     }
   ]
 }
