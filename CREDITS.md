@@ -42,6 +42,11 @@ Written for this app, and not copied from any other source. Pattern names are or
 The starter phrases, topics and sentence starters were written for this app. Their pinyin was
 generated here, and word links use the word list above.
 
+## Stories
+
+The graded readers were written for this app and are not adapted from any published reader. Their
+pinyin was generated here and checked, and word links use the word list above.
+
 ## HSK levels
 
 Level numbers per word from https://github.com/drkameleon/complete-hsk-vocabulary (MIT label).

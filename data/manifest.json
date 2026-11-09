@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 12,
-  "contentHash": "0c9db61cd697396844a40010b88e38ae7aa320c9d1721b1ba3d1ab2c2d43cef3",
+  "dataVersion": 14,
+  "contentHash": "cd57bc615e4411d9dabca4ee3eee7c21f1b9ed7663af07c2b7f58a81e54aac54",
   "words": "words.json",
   "sentences": "sentences.json",
   "grammar": "grammar.json",
   "components": "components.json",
   "speaking": "speaking.json",
+  "stories": "stories.json",
   "decks": [
     {
       "deckId": "core-1",
