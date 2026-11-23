@@ -14,4 +14,7 @@ under the GNU LGPL, version 3 or later; see data/LGPL-3.0.txt.
 data/grammar.json, data/speaking.json, data/stories.json and the theme lists in data/decks/ were written
 for this app.
 
+The part-of-speech labels in data/words.json are taken from English Wiktionary (CC BY-SA 4.0,
+https://creativecommons.org/licenses/by-sa/4.0/), through the Wiktextract data at kaikki.org.
+
 Nothing here is legal advice.

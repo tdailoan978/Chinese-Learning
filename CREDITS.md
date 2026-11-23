@@ -21,6 +21,17 @@ https://cc-cedict.org/wiki/
 
 Meanings were shortened and selected, and tone-mark pinyin was generated from them.
 
+## English Wiktionary (parts of speech)
+
+Part-of-speech labels (noun, verb and so on) come from the Chinese entries of English Wiktionary,
+https://en.wiktionary.org, licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+The data was taken from the machine-readable extract at https://kaikki.org, made with Wiktextract
+(Tatu Ylonen, https://github.com/tatuylonen/wiktextract). Only the part-of-speech labels are used,
+matched to each word's traditional form and reading; a word with no clear label shows none.
+Words Wiktionary doesn't label use the part-of-speech tags in the HSK word list credited above. For a word
+with several readings, only the tags that fit the reading the card teaches are kept (listed for review in
+`data/review/parts_of_speech_readings.csv`).
+
 ## Tatoeba (example sentences and translations)
 
 https://tatoeba.org, CC BY 2.0 FR. Each sentence in `data/sentences.json` keeps its Tatoeba
@@ -41,6 +52,11 @@ Written for this app, and not copied from any other source. Pattern names are or
 
 The starter phrases, topics and sentence starters were written for this app. Their pinyin was
 generated here, and word links use the word list above.
+
+## Written example sentences
+
+Words the sentence collection has no example for have one or two sentences written for this app,
+marked "Written for this app; unreviewed". Their pinyin was generated here and checked.
 
 ## Stories
 
