@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 26,
+  "contentHash": "b2287901928841fa26ff621eb960d1b23dd8a66085cbf6f9273acd132d99b32b",
+  "words": "words.json",
+  "sentences": "sentences.json",
+  "grammar": "grammar.json",
+  "components": "components.json",
+  "speaking": "speaking.json",
+  "stories": "stories.json",
+  "decks": [
+    {
+      "deckId": "core-1",
+      "name": "Core 1–1000",
+      "type": "frequency",
+      "version": 3,
+      "url": "decks/core-1.json",
+      "sha256": "7e25d949a723f4b62cd3b4ca7dcc80c4b0047f9a07408fed0cec64b54beb7ffe",
+      "wordCount": 1000
+    },
+    {
+      "deckId": "core-2",
+      "name": "Core 1001–2000",
+      "type": "frequency",
+      "version": 3,
+      "url": "decks/core-2.json",
+      "sha256": "700c76dcc0bee3287c91d680efe60ed31c1839d5e47c94e7bc1885fd1b84127d",
+      "wordCount": 1000
+    },
+    {
+      "deckId": "core-3",
+      "name": "Core 2001–3000",
+      "type": "frequency",
+      "version": 4,
+      "url": "decks/core-3.json",
+      "sha256": "e3de981aba376e55f171bf3ac6392d2116644a747db539be770733938322d413",
+      "wordCount": 1000
+    },
+    {
+      "deckId": "theme-food",
+      "name": "Food and drink",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-food.json",
+      "sha256": "da66ec0e7d12d5d287e26ae26fb590a109c827e524fc421fd49cf3b3c9e3950f",
+      "wordCount": 62,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-travel",
+      "name": "Travel and transport",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-travel.json",
+      "sha256": "fcbcb90dc659e2330821451ccb4f3986c389702926601c78332225f9611611fc",
+      "wordCount": 60,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-family",
+      "name": "Family and people",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-family.json",
+      "sha256": "27ef9707841e1971e3835edf667918b2fad23755b9c4df33e3507a2383e8f103",
+      "wordCount": 59,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-health",
+      "name": "Health and body",
+      "type": "theme",
+      "version": 1,
+      "url": "decks/theme-health.json",
+      "sha256": "be49720054465c7008ec80d8cd8c567afbb599c2cdcd2fe27983240601c90396",
+      "wordCount": 52,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-shopping",
+      "name": "Shopping and money",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-shopping.json",
+      "sha256": "2542701890f4b27fb96c902a64c0ee32b555d913b243317c254b9b185cdffed7",
+      "wordCount": 55,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-home",
+      "name": "Home and housing",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-home.json",
+      "sha256": "5177b9a85b479904ca164204f6dce475e1037aa41304373e9363b77286874813",
+      "wordCount": 53,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-clothing",
+      "name": "Clothing and appearance",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-clothing.json",
+      "sha256": "018d90020489103710df8bb280183af5e76ef2d9a876cc7bced6168ce0fbdcf1",
+      "wordCount": 54,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-routines",
+      "name": "Daily routines",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-routines.json",
+      "sha256": "2f88d622f05f651f01b882662b0631a5292968b6b848a4fa397bea8d755ca459",
+      "wordCount": 53,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-restaurants",
+      "name": "Restaurants and ordering",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-restaurants.json",
+      "sha256": "9a265f8971cc01c532416c6acf7c5c45958ff86b8f0ad06064606c8bb52cdd30",
+      "wordCount": 52,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-time",
+      "name": "Time, dates and the calendar",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-time.json",
+      "sha256": "0fba154e4e08475091b0b7d25f4adfbca16aaad666ac2b156a772023faecd0dd",
+      "wordCount": 55,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-numbers",
+      "name": "Numbers, prices and measure words",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-numbers.json",
+      "sha256": "d8c087a75ea1d5ffb10325cbffe92b2ed56aa912e96005200583b10cec830ce8",
+      "wordCount": 54,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-weather",
+      "name": "Weather and seasons",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-weather.json",
+      "sha256": "2c4279b86826022d06d90d45435529434113fbbdf4593126fa591b9df6b6e156",
+      "wordCount": 43,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-directions",
+      "name": "Directions and places in town",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-directions.json",
+      "sha256": "2d238235f074fde5e38c04944d546633cd0d4a6089dddbe138235e6f39ce5592",
+      "wordCount": 57,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-work",
+      "name": "Work and office life",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-work.json",
+      "sha256": "d9192787f0ad2b4a5e93f43349ba5a52c742b288b8c97571aa692bff09c75818",
+      "wordCount": 50,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-school",
+      "name": "School and studying",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-school.json",
+      "sha256": "770c84ab9a59b2aadb8470c7fa2cc378a4523f979c63b45dd3989b8960921132",
+      "wordCount": 60,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-messaging",
+      "name": "Phone, messaging and social media",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-messaging.json",
+      "sha256": "9e29a5baa19894bdade22c3e3e2a205a8f42802ba2a88031855071307605595d",
+      "wordCount": 49,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-technology",
+      "name": "Technology and the internet",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-technology.json",
+      "sha256": "8510d7568e9b65d5f05ebeca21c849cd42dc4fff7119db01a13b649d098b2630",
+      "wordCount": 49,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-hobbies",
+      "name": "Hobbies and free time",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-hobbies.json",
+      "sha256": "a95196db043d0fa977500e3acd1d03230623306054e39ff433d40e95a1826491",
+      "wordCount": 47,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-sports",
+      "name": "Sports and exercise",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-sports.json",
+      "sha256": "cf098a9357a5a4fb8606dd6b0273940b76fc5020d9484cb885aeddf0360eb4ad",
+      "wordCount": 50,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-media",
+      "name": "Movies, TV and music",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-media.json",
+      "sha256": "c7fb79f0eb2a26023588c17166eeeed3f35471d9fe284f7d28a6af29ef82410d",
+      "wordCount": 51,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-nature",
+      "name": "Nature and animals",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-nature.json",
+      "sha256": "d5181b5cdc505c35d0456c091d05a95645ee9c590fc0f2d7122880ea5f60adfb",
+      "wordCount": 49,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-festivals",
+      "name": "Festivals, customs and traditions",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-festivals.json",
+      "sha256": "d3857193fddb880ce18e97b6dce888ee7ad9f0cecc8325a2527d4c0c07e69a17",
+      "wordCount": 49,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-history",
+      "name": "History",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-history.json",
+      "sha256": "2f3b0e1d286e58ecf044e4f5144b81f84466064aa461c9269e608d039ab29860",
+      "wordCount": 47,
+      "reviewed": false
+    },
+    {
+      "deckId": "theme-society",
+      "name": "News, society and the environment",
+      "type": "theme",
+      "version": 2,
+      "url": "decks/theme-society.json",
+      "sha256": "970c11e119cf4c40289ed583d441480ed595b79fa48035d94a8d099b07302089",
+      "wordCount": 50,
+      "reviewed": false
+    }
+  ]
+}
